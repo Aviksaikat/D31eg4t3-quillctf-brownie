@@ -1,6 +1,6 @@
 # D31eg4t3 quillctf
 
-> Saikat Karmakar | 16 Jan 2022
+> Saikat Karmakar | 16 Jan 2023
 
 ## [D31eg4t3 Link](https://quillctf.super.site/challenges/quillctf-challenges/d31eg4t3)
 
